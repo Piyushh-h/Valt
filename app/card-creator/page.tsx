@@ -12,7 +12,7 @@ export default function CardCreator() {
   return (
     <main className="min-h-screen flex flex-col items-center justify-center p-4">
       <h1 className="text-4xl font-greatVibes font-bold text-red-600 mb-8 animate-fade-in">
-        Create Your Valentine's Card
+        Create Your Valentine &apos;s Card
       </h1>
       <div className="flex flex-col md:flex-row gap-8 w-full max-w-4xl">
         <div className="flex-1">
