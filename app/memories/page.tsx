@@ -173,6 +173,7 @@ export default function Memories() {
                     alt={selectedMemory.title}
                     fill
                     className="object-cover"
+                    unoptimized={true}
                   />
                 </div>
                 <p className="text-gray-700 mb-4 leading-relaxed">{selectedMemory.description}</p>

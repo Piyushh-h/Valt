@@ -33,7 +33,7 @@ export default function Home() {
         Happy Valentine&apos;s Day, My Love!
       </h1>
       <p className="text-xl md:text-2xl font-roboto text-pink-700 mb-8 max-w-2xl animate-fade-in">
-        Every moment with you is a treasure, every smile a gift. You are my heart, my soul, my everything.
+        You are my love in my happiest days, my valentine forever in endless ways.
       </p>
       <button
         className="bg-red-500 hover:bg-red-600 text-white font-roboto font-bold py-2 px-4 rounded-full transition-colors duration-300 mb-8"
