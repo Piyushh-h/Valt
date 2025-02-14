@@ -3,7 +3,7 @@
 import { useState } from "react"
 import { motion } from "framer-motion"
 import { Heart, Gift, Flower, Candy, Music } from "lucide-react"
-import Image from "next/image"
+
 
 const gifts = [
   { id: 1, name: "Virtual Flowers", icon: <Flower size={48} /> },
